@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551365920207.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3125347631",
+    "id" : "9FB19EE2",
+    "lastKnownWriteTime" : 1551366043,
+    "last_content_update" : 1551366043,
+    "path" : "C:/Users/User/Desktop/BSSA/Module3/IoT/4.Prophet_visuals_and_forecasting.R",
+    "project_path" : "4.Prophet_visuals_and_forecasting.R",
+    "properties" : {
+        "cursorPosition" : "3,58",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

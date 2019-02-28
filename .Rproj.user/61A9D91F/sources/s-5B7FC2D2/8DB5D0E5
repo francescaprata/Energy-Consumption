@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551365873044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2074728120",
+    "id" : "8DB5D0E5",
+    "lastKnownWriteTime" : 1551365908,
+    "last_content_update" : 1551365908720,
+    "path" : "C:/Users/User/Desktop/BSSA/Module3/IoT/3.Visualizating_data_v1.R",
+    "project_path" : "3.Visualizating_data_v1.R",
+    "properties" : {
+        "cursorPosition" : "9,37",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

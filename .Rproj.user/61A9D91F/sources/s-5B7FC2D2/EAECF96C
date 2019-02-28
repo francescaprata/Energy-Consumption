@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551364645221.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2283600505",
+    "id" : "EAECF96C",
+    "lastKnownWriteTime" : 1551364678,
+    "last_content_update" : 1551364678703,
+    "path" : "C:/Users/User/Desktop/BSSA/Module3/IoT/1Data_Setup.R",
+    "project_path" : "1Data_Setup.R",
+    "properties" : {
+        "cursorPosition" : "113,27",
+        "scrollLine" : "89"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
